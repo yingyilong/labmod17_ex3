@@ -1,0 +1,7 @@
+archive/*
+!archive/README.md
+*.orig
+*.bak
+.DS_Store
+Thumbs.db
+
